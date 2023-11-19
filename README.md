@@ -13,4 +13,5 @@
 <div align="center">
     <img  src="https://codeforces-readme-api.xwysyy.cn/api/card?username=kmsgk" /><br>
     <img  src="https://codeforces-readme-api.xwysyy.cn/api/badge?username=kmsgk" />
+    <img  src="https://codeforces-readme-api.xwysyy.cn/api/badge?username=xwysyy" />
 </div>
