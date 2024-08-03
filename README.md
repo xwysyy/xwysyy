@@ -1,7 +1,7 @@
 
 <h1 align="center">
-  <a href="https://wwww.xwysyy.life/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);欢迎来到xwysyy主页!&center=true&size=27">
+  <a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&separator=%3C&lines=std%3A%3Aprintln(%22Hello+World%22);+%3C%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0xwysyy%E4%B8%BB%E9%A1%B5!" alt="Typing SVG" /></a>
   </a>
 </h1>
 <div align="center">
