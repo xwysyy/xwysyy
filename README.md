@@ -13,7 +13,7 @@
     <img src="https://badges.toozhao.com/badges/01J7BP7M40AD2F1DAR70H41QE0/blue.svg" />
 </div>
 <div align="center">
-    <img  src="https://codeforces-readme-api.xwysyy.cn/api/card?username=kmsgk" /><br>
+    <img  src="https://codeforces-readme-api.xwysyy.cn/api/card?username=xwysyy" /><br>
     <img  src="https://codeforces-readme-api.xwysyy.cn/api/badge?username=kmsgk" />
     <img  src="https://codeforces-readme-api.xwysyy.cn/api/badge?username=xwysyy" />
 </div>
