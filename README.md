@@ -7,9 +7,9 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,py,vite,vue,html,css,js,docker,go,mysql,nginx,tailwind,github,latex,md,sublime,vscode&perline=9">
 </div>
 <div align="center">
-    <img  src="https://python-api.xwysyy.cn/api/card?username=kmsgk" /><br>
-    <img  src="https://python-api.xwysyy.cn/api/badge?username=kmsgk" />
-    <img  src="https://python-api.xwysyy.cn/api/badge?username=xwysyy" />
-    <img  src="https://python-api.xwysyy.cn/api/badge?username=ljz2024" />
-    <img  src="https://python-api.xwysyy.cn/api/badge?username=9952594" />
+    <img  src="https://python-api.xwysyy.cn/codeforces/card?username=kmsgk" /><br>
+    <img  src="https://python-api.xwysyy.cn/codeforces/badge?username=kmsgk" />
+    <img  src="https://python-api.xwysyy.cn/codeforces/badge?username=xwysyy" />
+    <img  src="https://python-api.xwysyy.cn/codeforces/badge?username=ljz2024" />
+    <img  src="https://python-api.xwysyy.cn/codeforces/badge?username=9952594" />
 </div>
