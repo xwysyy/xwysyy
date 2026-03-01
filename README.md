@@ -10,7 +10,8 @@
     <img  src="https://python-api.xwysyy.cn/codeforces/card?user=kmsgk" /><br>
     <img  src="https://python-api.xwysyy.cn/codeforces/badge?user=kmsgk" />
     <img  src="https://python-api.xwysyy.cn/codeforces/badge?user=xwysyy" />
-    <img  src="https://python-api.xwysyy.cn/codeforces/badge?user=ljz2024" />
+    <img  src="https://python-api.xwysyy.cn/codeforces/badge?user=ljz2024" /><br>
     <img  src="https://python-api.xwysyy.cn/codeforces/badge?user=9952594" />
     <img  src="https://python-api.xwysyy.cn/codeforces/badge?user=kmsgk0" />
+    <img  src="https://python-api.xwysyy.cn/codeforces/badge?user=xwysyy2024" />
 </div>
