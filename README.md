@@ -6,7 +6,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,py,vite,vue,html,css,js,docker,go,mysql,nginx,tailwind,github,latex,md,sublime,vscode&perline=9">
 </div>
-<div align="center">
+<!-- <div align="center">
     <img  src="https://python-api.xwysyy.cn/codeforces/card?user=kmsgk" /><br>
     <img  src="https://python-api.xwysyy.cn/codeforces/badge?user=kmsgk" />
     <img  src="https://python-api.xwysyy.cn/codeforces/badge?user=xwysyy" />
@@ -14,4 +14,4 @@
     <img  src="https://python-api.xwysyy.cn/codeforces/badge?user=9952594" />
     <img  src="https://python-api.xwysyy.cn/codeforces/badge?user=kmsgk0" />
     <img  src="https://python-api.xwysyy.cn/codeforces/badge?user=xwysyy2024" />
-</div>
+</div> -->
